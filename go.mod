@@ -1,4 +1,4 @@
-module bankverification
+module github.com/ezeoleaf/bankverification
 
 go 1.21.3
 
